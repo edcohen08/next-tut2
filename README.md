@@ -1,1 +1,1 @@
-# EthicalBot
+# Next.js tutorial 1
